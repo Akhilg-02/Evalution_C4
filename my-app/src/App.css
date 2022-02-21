@@ -1,0 +1,19 @@
+body{
+  background-color: darkslategray;
+}
+
+.App {
+  text-align: center;
+  
+}
+
+.Mybox{
+  /* border: 1px solid black; */
+  display: inline;
+}
+
+.Mybox #search-box{
+  width: 50%;
+  height: 5vh;
+  border-radius: 20rem;
+}
